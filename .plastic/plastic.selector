@@ -1,4 +1,0 @@
-repository "CriminalAR_New@criminalar@cloud.cn"
-  path "/"
-    smartbranch "/main" 
-     
